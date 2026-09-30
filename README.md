@@ -354,9 +354,9 @@ PulseGuard AI features a continuous, trained clinical voice assistant. Click **"
 
 ## 👥 Contributors & Acknowledgements
 
-* **Lead Architect & Developer**: Jayanth D R ([@jayanthdr07](https://github.com/jayanthdr07))
+* **Lead Architect & Developer**: Jayanth D R , Hruthik Gowda, V Vinay Pingale, Mohammed Ayman
 * **Consulting Telecardiologist**: Dr. Jayanth Gowda (`jayanthgowda1406@gmail.com`)
-* **Core Research & Machine Learning**: Team Debuggers
+* **Core Research & Machine Learning**: Team TECH_YOUTH
 * **Datasets & Reference Benchmarks**: Kaggle Cardiovascular Disease Dataset (70,000 anonymized clinical records)
 
 ---
